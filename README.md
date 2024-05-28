@@ -19,24 +19,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O último humano da Terra
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Meu projeto consiste em um vídeo com uma pessoa declamando um poema sobre o último humano na Terra após uma revolução das máquinas. O texto do poema foi gerado pelo ChatGPT e o vídeo foi produzido no Studio D-ID.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT: Geração do texto
+D-ID: Geração do vídeo
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pensei em algo que pudesse sumarizar e brincar um pouco com tudo que a gente aprendeu, então decidi fazer um prompt no ChatGPT pedindo o poema. Em seguida escolhi um assitente com o D-ID.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo está na pasta "projeto" nesse mesmo repositório.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Percebi que a IAs já tem um poder muito grande, não só de geração de conteúdo como também enquanto ferramenta para auxiliar pessoas no seu dia a dia, além de ferramenta de inclusão.
 
 ### Exemplos e Insigths
 
